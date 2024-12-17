@@ -23,7 +23,7 @@ Scripts for "Engineering Bacteriophage T7 with Metagenomic Motif Curation".
 * *motif_finder_tool_modules.pyx*: Cython modules for main tool, requires compilation
 * *compile_cython.py*: used to compile Cython modules
 * *IMGVR_v4_human-animal-wastewater.VOG-relevant.cdhit100.faa.gz*: curated database proteins from IMG/VR (`-i`). Some proteins contained within this database are unpublished and are credited to the original authors. Please see the [IMG/VR website](https://genome.jgi.doe.gov/portal/IMG_VR/IMG_VR.home.html) and usage policy for details. 
-* *prokaryotic_virus_ncbi_july2019.lim3000.trimmed.VOG-relevant.cdhit100.faa.gz*: curated database proteisn from NCBI (`-i`). 
-* *f-score_table.tsv*: motif search table (`-m`). 
+* *prokaryotic_virus_ncbi_july2019.lim3000.trimmed.VOG-relevant.cdhit100.faa.gz*: curated database proteins from NCBI (`-i`). 
+* *f-score_table.tsv*: motif search table (`-m`) (Based on relevant scoring parameters as in SF1)
 * *Hierarchical_Cluster.R*: R scripts used for hierarchical clustering
 
