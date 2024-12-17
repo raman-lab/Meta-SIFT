@@ -1,6 +1,6 @@
-# MotifMining
+# Meta-SIFT
 
-Scripts for "Engineering Bacteriophage T7 with Metagenomic Motif Curation".  
+Scripts for "Engineering bacteriophages through deep mining of metagenomic motifs".  
 
 ### Required Dependencies:  
 * Numpy  
