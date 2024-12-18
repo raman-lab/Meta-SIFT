@@ -12,7 +12,7 @@ import numpy as np
 import motif_finder_tool_modules as cy
 
 
-# Publication setttings
+# Publication settings
 # -i <one of the protein datasets>
 # -m <f-score table>
 
